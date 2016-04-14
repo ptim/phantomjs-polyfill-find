@@ -1,7 +1,7 @@
 {
   "name": "phantomjs-polyfill-find",
   "version": "0.0.1",
-  "description": "Polyfill for Array.prototype.find",
+  "description": "Polyfill for Array.prototype.find and Array.prototype.findIndex",
   "main": "find-polyfill.js",
   "repository": {
     "type": "git",

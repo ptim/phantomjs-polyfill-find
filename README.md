@@ -1,8 +1,8 @@
 # phantomjs-polyfill-find
 
-Array.prototype.find polyfill for phantom.js based on https://github.com/tom-james-watson/phantomjs-polyfill
+Array.prototype.find and Array.prototype.findIndex polyfill for phantom.js based on https://github.com/tom-james-watson/phantomjs-polyfill
 
-This is a polyfill for Array.prototype.find which is missing from PhantomJS.
+This is a polyfill for Array.prototype.find and Array.prototype.findIndex which is missing from PhantomJS.
 
 
 ## Installation
